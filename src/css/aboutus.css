@@ -1,0 +1,21 @@
+/* About Page */
+
+.who-we-are {
+ background-color: black;
+ color:#ffff;
+ margin-bottom: 50px;
+}
+
+.who-we-are-title {
+  text-align: justify;
+  text-decoration: underline;
+  padding: 0 20px;
+  margin: 20px 0;
+}
+
+.who-we-are-content {
+  text-align: left;
+  font-size: 30px;
+  padding-bottom: 40px;
+  padding: 0 20px;
+}

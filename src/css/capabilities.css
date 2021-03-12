@@ -1,0 +1,28 @@
+
+/* Our Capabilities */
+
+.what-we-do {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.what-we-do-title {
+ text-align: justify;
+}
+
+.what-we-do-content {
+  text-align: left;
+  font-size: x-large;
+}
+
+.what-we-do-service {
+ max-width: 360px;
+ max-height: 320px;
+ border: 4px solid black;
+ background: black;
+ color:#ffff;
+ height: auto;
+ width: 100%;
+ align-self: end;
+}
